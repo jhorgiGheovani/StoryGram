@@ -1,6 +1,5 @@
 # StoryGram
-StoryGram is an android app that similar like social media you can create an account and share photo with some caption in it. Beside that user also can share their current and attach with 
-story that shared. StoryGram built with Kotlin also foollowing MVVM Archithecture. Made with dicoding API https://story-api.dicoding.dev/v1#/
+StoryGram is an android app that similar like social media you can create an account and share photo with some caption in it. Beside that you can also share your current location in the story. StoryGram built with Kotlin also follows MVVM Architecture. Made with dicoding API https://story-api.dicoding.dev/v1#/
 
 ## ✨ Features
 - Create Story with images and caption
