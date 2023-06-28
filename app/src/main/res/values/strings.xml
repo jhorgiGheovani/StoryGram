@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">StoryGram</string>
+
+    <string name="deskripsi_panjang">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  but also the leap into electronic typesetting.</string>
+
+    <string name="retry">Retry</string>
+    <string name="loading_placeholder">loading…</string>
+
+    <string name="maps_option_menu">maps</string>
+    <string name="logout_option_menu">logout</string>
+    <string name="title_activity_maps">Maps</string>
+
+
+    <!-- add new story activity   -->
+    <string name="checkbox_text">Include Your Current Location?</string>
+
+
+    <!-- ButtonToMaps   -->
+    <string name="title_activity_maps_details_story">MapsDetailsStoryActivity</string>
+
+    <!--activity_add_new_story-->
+    <string name="deskripsi_text">Deskripsi</string>
+    <string name="images_content_desc">Image of Story</string>
+    <!--activity_detail-->
+    <string name="name_text_details">Jhorgi</string>
+    <string name="date_text_details">12 Juni 2020</string>
+    <!--activity_login-->
+    <string name="email_hint">Email</string>
+    <string name="blm_punya_akun">Belum Mempunyai Akun?</string>
+    <string name="login_text">Login</string>
+    <!--activity_main-->
+    <string name="tambah_cerita">Tambahkan Cerita Baru</string>
+    <!--activity_register-->
+    <string name="name_hint_register">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="register_button_text">Register</string>
+
+    <!--EditTextPasswordLogin-->
+    <string name="password_error_message">Password harus lebih dari 8 karakter</string>
+
+</resources>

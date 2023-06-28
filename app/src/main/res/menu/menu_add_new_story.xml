@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/open_camera"
+        android:icon="@drawable/ic_camera"
+        android:title="Buka Camera"
+        app:showAsAction="collapseActionView|always" />
+
+    <item
+        android:id="@+id/open_gallery"
+        android:icon="@drawable/ic_image"
+        android:title="Buka Galeri"
+        app:showAsAction="collapseActionView|always" />
+
+    <item
+        android:id="@+id/send"
+        android:title="Send"
+        android:icon="@drawable/ic_send"
+        app:showAsAction="collapseActionView|always" />
+
+</menu>
